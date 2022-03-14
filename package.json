@@ -10,7 +10,8 @@
     "test": "jest --watchAll"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "@types/react": "^17.0.40",
+    "axios": "^0.26.1",
     "json-server": "^0.16.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
